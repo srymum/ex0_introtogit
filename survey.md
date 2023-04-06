@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Purple
+Favorite food: Fruit Puree
+Favorite musician/band: Sharif the Druze wonderkid
+Favorite movie: The Wave
+Requested grade in the course: 81
